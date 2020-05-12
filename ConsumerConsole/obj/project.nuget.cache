@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXknP6jmTsgaCtLEqmtiEeK9lWCTMWi4NR25WIMdSaA3F2aVqwA6E/eCSbsvwwcI9m4nFvneXEQCDTLkuxvmjg==",
+  "success": true,
+  "projectFilePath": "H:\\codeLib\\Core\\RabbitMQ\\ConsumerConsole\\ConsumerConsole\\ConsumerConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23663\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\23663\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\bin\Release\netcoreapp3.1\ConsumerConsole.exe
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\bin\Release\netcoreapp3.1\ConsumerConsole.deps.json
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\bin\Release\netcoreapp3.1\ConsumerConsole.runtimeconfig.json
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\bin\Release\netcoreapp3.1\ConsumerConsole.runtimeconfig.dev.json
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\bin\Release\netcoreapp3.1\ConsumerConsole.dll
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\bin\Release\netcoreapp3.1\ConsumerConsole.pdb
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\bin\Release\netcoreapp3.1\RabbitMQ.Client.dll
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.csproj.CoreCompileInputs.cache
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.AssemblyInfoInputs.cache
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.AssemblyInfo.cs
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.csproj.CopyComplete
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.dll
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.pdb
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.genruntimeconfig.cache
+H:\codeLib\Core\RabbitMQ\ConsumerConsole\ConsumerConsole\obj\Release\netcoreapp3.1\ConsumerConsole.csprojAssemblyReference.cache
